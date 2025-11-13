@@ -14,7 +14,7 @@
 
 Working, Studying at UZHNU in Ukraine. Learning Svelte.
 
----
+##
 
 <p style="margin-top: 24px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
   <strong style="min-width: 90px;">Frontend:</strong>
@@ -57,6 +57,6 @@ Working, Studying at UZHNU in Ukraine. Learning Svelte.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1rnt&layout=compact&theme=tokyonight" height="165" />
 </p>
 
----
+##
 
 <p align="center">✨ <em>“Життя буває грубим” - Петро Моставчук</em> ✨</p>
