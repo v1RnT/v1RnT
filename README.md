@@ -63,12 +63,6 @@ Working, Studying at UZHNU in Ukraine. Learning Svelte.
   <a href="#" title="Premiere Pro"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/215c2f15f4b380b89a5693e72bb9f4f94d325200/logos/premierepro.svg" width="32" height="32" alt="Premiere Pro"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/v1RnT"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/51e81f2f62cdd676b523ba18c156abea77e074a2/shields/github-shield.svg"/></a>
-  <a href="https://www.linkedin.com/in/vitalii-mlynetskyi-62823727b/"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/51e81f2f62cdd676b523ba18c156abea77e074a2/shields/linkedin-shield.svg"/></a>
-  <a href="mailto:mlynetskyivitaliy@gmail.com"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/51e81f2f62cdd676b523ba18c156abea77e074a2/shields/email-shield.svg"/></a>
-</p>
-
 ## 📈 GitHub Stats
 
 <p align="center">
