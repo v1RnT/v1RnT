@@ -2,8 +2,7 @@
   <title>LinkedIn</title>
   <rect width="106" height="28" fill="#0077b5"/>
   
-  <!-- LinkedIn "in" logo -->
-  <g transform="translate(4,4.2) scale(0.052)">
+  <g transform="translate(8,5) scale(0.045)">
     <path fill="#ffffff" d="M347.445,0H34.555C15.471,0,0,15.471,0,34.555v312.889C0,366.529,15.471,382,34.555,382h312.889
       C366.529,382,382,366.529,382,347.444V34.555C382,15.471,366.529,0,347.445,0z M118.207,329.844c0,5.554-4.502,10.056-10.056,10.056
       H65.345c-5.554,0-10.056-4.502-10.056-10.056V150.403c0-5.554,4.502-10.056,10.056-10.056h42.806
@@ -15,7 +14,7 @@
       L341.91,330.654L341.91,330.654z"/>
   </g>
 
-  <text x="28" y="19" fill="#ffffff" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-weight="bold" font-size="13">
+  <text x="32" y="19" fill="#ffffff" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-weight="bold" font-size="12">
     LINKEDIN
   </text>
 </svg>
