@@ -16,39 +16,58 @@ Working, Studying at UZHNU in Ukraine. Learning Svelte.
 
 ##
 
-<p style="margin-top: 24px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
-  <strong style="min-width: 90px;">Frontend:</strong>
-  <a href="#" title="React"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/70733dcc4996b8ab122746702a3537809f6687c3/logos/react.svg" width="32" height="32" alt="React"/></a>
-  <a href="#" title="React Native"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/51e81f2f62cdd676b523ba18c156abea77e074a2/logos/reactnative.svg" width="32" height="32" alt="React Native"/></a>
-  <a href="#" title="Angular"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/e84a19db7feb063f4217873049fdd8001a33e939/logos/angular.svg" width="32" height="32" alt="Angular"/></a>
-  <a href="#" title="Svelte"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/14d473a78ac63b5f42ff8bf476036e891c323c3f/logos/svelte.svg" width="32" height="32" alt="Svelte"/></a>
-  <a href="#" title="Vue.js"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/14d473a78ac63b5f42ff8bf476036e891c323c3f/logos/vuejs.svg" width="32" height="32" alt="Vue.js"/></a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Frontend</strong><br/>
+      <a href="#" title="React"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/70733dcc4996b8ab122746702a3537809f6687c3/logos/react.svg" width="32" height="32"/></a>
+      <a href="#" title="React Native"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/51e81f2f62cdd676b523ba18c156abea77e074a2/logos/reactnative.svg" width="32" height="32"/></a>
+      <a href="#" title="Angular"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/e84a19db7feb063f4217873049fdd8001a33e939/logos/angular.svg" width="32" height="32"/></a>
+      <a href="#" title="Svelte"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/14d473a78ac63b5f42ff8bf476036e891c323c3f/logos/svelte.svg" width="32" height="32"/></a>
+      <a href="#" title="Vue.js"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/14d473a78ac63b5f42ff8bf476036e891c323c3f/logos/vuejs.svg" width="32" height="32"/></a>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Styling</strong><br/>
+      <a href="#" title="Angular Material"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/1a3950eaf198a47b6d747d5714b2b24b3fd53cfc/logos/angular-materialui.svg" width="32" height="32"/></a>
+      <a href="#" title="CSS3"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/1a3950eaf198a47b6d747d5714b2b24b3fd53cfc/logos/css3.svg" width="32" height="32"/></a>
+      <a href="#" title="Material UI"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/1a3950eaf198a47b6d747d5714b2b24b3fd53cfc/logos/material-ui.svg" width="32" height="32"/></a>
+      <a href="#" title="SCSS"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/1a3950eaf198a47b6d747d5714b2b24b3fd53cfc/logos/sass.svg" width="32" height="32"/></a>
+      <a href="#" title="Tailwind"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/1a3950eaf198a47b6d747d5714b2b24b3fd53cfc/logos/tailwind.svg" width="32" height="32"/></a>
+      <a href="#" title="ТNativewind"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/refs/heads/main/logos/nativewind.png" width="32" height="32"/></a>
+    </td>
+  </tr>
 
-<p style="margin-top: 12px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
-  <strong style="min-width: 90px;">Backend:</strong>
-  <a href="#" title=".NET"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/14d473a78ac63b5f42ff8bf476036e891c323c3f/logos/dotnet.svg" width="32" height="32" alt=".NET"/></a>
-  <a href="#" title="Python"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/14d473a78ac63b5f42ff8bf476036e891c323c3f/logos/python.svg" width="32" height="32" alt="Python"/></a>
-  <a href="#" title="C#"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/d7bea3ba64c2604986fdb9d79004895c6720709c/logos/csharp.svg" width="32" height="32" alt="C#"/></a>
-  <a href="#" title="C++"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/e84a19db7feb063f4217873049fdd8001a33e939/logos/cpp.svg" width="32" height="32" alt="C++"/></a>
-</p>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Backend</strong><br/>
+      <a href="#" title=".NET"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/14d473a78ac63b5f42ff8bf476036e891c323c3f/logos/dotnet.svg" width="32" height="32" alt=".NET"/></a>
+      <a href="#" title="Python"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/14d473a78ac63b5f42ff8bf476036e891c323c3f/logos/python.svg" width="32" height="32" alt="Python"/></a>
+      <a href="#" title="C#"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/d7bea3ba64c2604986fdb9d79004895c6720709c/logos/csharp.svg" width="32" height="32" alt="C#"/></a>
+      <a href="#" title="C++"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/e84a19db7feb063f4217873049fdd8001a33e939/logos/cpp.svg" width="32" height="32" alt="C++"/></a>
+    </td>
+  </tr>
 
-<p style="margin-top: 12px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
-  <strong style="min-width: 90px;">Tools:</strong>
-  <a href="#" title="Vite"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/14d473a78ac63b5f42ff8bf476036e891c323c3f/logos/vite.svg" width="32" height="32" alt="Vite"/></a>
-  <a href="#" title="Postman"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/5ee25b89c5ce078e97fda75f7c11d2468a020329/logos/postman.svg" width="32" height="32" alt="Postman"/></a>
-  <a href="#" title="Git"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/d7bea3ba64c2604986fdb9d79004895c6720709c/logos/git.svg" width="32" height="32" alt="Git"/></a>
-  <a href="#" title="GitHub"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/d7bea3ba64c2604986fdb9d79004895c6720709c/logos/github.svg" width="32" height="32" alt="GitHub"/></a>
-  <a href="#" title="VSCode"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/d7bea3ba64c2604986fdb9d79004895c6720709c/logos/vscode.svg" width="32" height="32" alt="VS Code"/></a>
-</p>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Tools</strong><br/>
+      <a href="#" title="Vite"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/14d473a78ac63b5f42ff8bf476036e891c323c3f/logos/vite.svg" width="32" height="32" alt="Vite"/></a>
+      <a href="#" title="Postman"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/5ee25b89c5ce078e97fda75f7c11d2468a020329/logos/postman.svg" width="32" height="32" alt="Postman"/></a>
+      <a href="#" title="Git"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/d7bea3ba64c2604986fdb9d79004895c6720709c/logos/git.svg" width="32" height="32" alt="Git"/></a>
+      <a href="#" title="GitHub"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/d7bea3ba64c2604986fdb9d79004895c6720709c/logos/github.svg" width="32" height="32" alt="GitHub"/></a>
+      <a href="#" title="VSCode"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/d7bea3ba64c2604986fdb9d79004895c6720709c/logos/vscode.svg" width="32" height="32" alt="VS Code"/></a>
+    </td>
+  </tr>
 
-<p style="margin-top: 12px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
-  <strong style="min-width: 90px;">Design Tools:</strong>
-  <a href="#" title="Figma UI"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/215c2f15f4b380b89a5693e72bb9f4f94d325200/logos/figma.svg" width="32" height="32" alt="Figma"/></a>
-  <a href="#" title="Photoshop"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/215c2f15f4b380b89a5693e72bb9f4f94d325200/logos/photoshop.svg" width="32" height="32" alt="Photoshop"/></a>
-  <a href="#" title="Illustrator"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/215c2f15f4b380b89a5693e72bb9f4f94d325200/logos/illustrator.svg" width="32" height="32" alt="Illustrator"/></a>
-  <a href="#" title="Premiere Pro"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/215c2f15f4b380b89a5693e72bb9f4f94d325200/logos/premierepro.svg" width="32" height="32" alt="Premiere Pro"/></a>
-</p>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Design Tools</strong><br/>
+      <a href="#" title="Figma UI"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/215c2f15f4b380b89a5693e72bb9f4f94d325200/logos/figma.svg" width="32" height="32" alt="Figma"/></a>
+      <a href="#" title="Photoshop"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/215c2f15f4b380b89a5693e72bb9f4f94d325200/logos/photoshop.svg" width="32" height="32" alt="Photoshop"/></a>
+      <a href="#" title="Illustrator"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/215c2f15f4b380b89a5693e72bb9f4f94d325200/logos/illustrator.svg" width="32" height="32" alt="Illustrator"/></a>
+      <a href="#" title="Premiere Pro"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/215c2f15f4b380b89a5693e72bb9f4f94d325200/logos/premierepro.svg" width="32" height="32" alt="Premiere Pro"/></a>
+    </td>
+  </tr>
+</table>
 
 ## 📈 GitHub Stats
 
@@ -60,3 +79,6 @@ Working, Studying at UZHNU in Ukraine. Learning Svelte.
 ##
 
 <p align="center">✨ <em>“Життя буває грубим” - Петро Моставчук</em> ✨</p>
+
+
+
