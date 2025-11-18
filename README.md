@@ -49,6 +49,7 @@ Working, Studying at UZHNU in Ukraine. Learning Svelte.
       <strong>DBs</strong><br/>
       <a href="#" title="SQL"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/a82a244786c6e2f3a1d87a6c67da29b5392331c7/logos/sql.svg" width="32" height="32" alt="C++"/></a>
       <a href="#" title="MySQL"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/a82a244786c6e2f3a1d87a6c67da29b5392331c7/logos/mysql.svg" width="32" height="32" alt="C++"/></a>
+      <a href="#" title="PostGreSQL"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/180afface5f80387d95074b49125ed5da8b14f5e/logos/postgresql.svg" width="32" height="32" alt="C++"/></a>
     </td>
   </tr>
 
