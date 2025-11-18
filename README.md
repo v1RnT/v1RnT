@@ -26,6 +26,8 @@ Working, Studying at UZHNU in Ukraine. Learning Svelte.
       <a href="#" title="Angular"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/e84a19db7feb063f4217873049fdd8001a33e939/logos/angular.svg" width="32" height="32"/></a>
       <a href="#" title="Svelte"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/14d473a78ac63b5f42ff8bf476036e891c323c3f/logos/svelte.svg" width="32" height="32"/></a>
       <a href="#" title="Vue.js"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/14d473a78ac63b5f42ff8bf476036e891c323c3f/logos/vuejs.svg" width="32" height="32"/></a>
+      <a href="#" title="JavaScript"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/6009eb38240ed4d6ffaa95c82ad36c47ddb94476/logos/javascript.svg" width="32" height="32"/></a>
+      <a href="#" title="TypeScript"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/6009eb38240ed4d6ffaa95c82ad36c47ddb94476/logos/typescript.svg" width="32" height="32"/></a>
     </td>
     <td valign="top" width="50%">
       <strong>Styling</strong><br/>
