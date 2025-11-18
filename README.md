@@ -44,6 +44,9 @@ Working, Studying at UZHNU in Ukraine. Learning Svelte.
       <a href="#" title="Python"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/14d473a78ac63b5f42ff8bf476036e891c323c3f/logos/python.svg" width="32" height="32" alt="Python"/></a>
       <a href="#" title="C#"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/d7bea3ba64c2604986fdb9d79004895c6720709c/logos/csharp.svg" width="32" height="32" alt="C#"/></a>
       <a href="#" title="C++"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/e84a19db7feb063f4217873049fdd8001a33e939/logos/cpp.svg" width="32" height="32" alt="C++"/></a>
+    </td>
+    <td valign="top" width="50%">
+      <strong>DBs</strong><br/>
       <a href="#" title="SQL"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/a82a244786c6e2f3a1d87a6c67da29b5392331c7/logos/sql.svg" width="32" height="32" alt="C++"/></a>
       <a href="#" title="MySQL"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/a82a244786c6e2f3a1d87a6c67da29b5392331c7/logos/mysql.svg" width="32" height="32" alt="C++"/></a>
     </td>
