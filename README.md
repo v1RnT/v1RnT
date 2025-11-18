@@ -20,6 +20,7 @@ Working, Studying at UZHNU in Ukraine. Learning Svelte.
   <tr>
     <td valign="top" width="50%">
       <strong>Frontend</strong><br/>
+      <a href="#" title="HTML"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/3e37944aa906b3ad2963a4d4c6ef85aec4ae80c3/logos/html.svg" width="32" height="32"/></a>
       <a href="#" title="React"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/70733dcc4996b8ab122746702a3537809f6687c3/logos/react.svg" width="32" height="32"/></a>
       <a href="#" title="React Native"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/51e81f2f62cdd676b523ba18c156abea77e074a2/logos/reactnative.svg" width="32" height="32"/></a>
       <a href="#" title="Angular"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/e84a19db7feb063f4217873049fdd8001a33e939/logos/angular.svg" width="32" height="32"/></a>
