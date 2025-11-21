@@ -16,7 +16,7 @@ Working, Studying at UZHNU in Ukraine. Learning Svelte.
 
 ##
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="50%">
       <strong>Frontend</strong><br/>
