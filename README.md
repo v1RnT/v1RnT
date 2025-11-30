@@ -85,11 +85,9 @@ Working, Studying at UZHNU in Ukraine. Learning Svelte.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1rnt&layout=compact&theme=tokyonight" height="165" />
 </p>
 
-##
+## Unneccessary thingy
 
-## Unneccessary thingie
-
-<p align="center>
+<p align="center">
   <img src="https://mal-stats-card.vercel.app/api/card?user=fknalive" />
 </p>
 
