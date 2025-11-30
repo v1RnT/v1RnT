@@ -88,7 +88,9 @@ Working, Studying at UZHNU in Ukraine. Learning Svelte.
 ## Unneccessary thingy
 
 <p align="center">
-  <img src="https://mal-stats-card.vercel.app/api/card?user=fknalive" />
+  <a href="https://myanimelist.net/profile/fknalive"> 
+    <img src="https://mal-stats-card.vercel.app/api/card?user=fknalive" />
+  </a>
 </p>
 
 <p align="center">✨ <em>“Життя буває грубим” - Петро Моставчук</em> ✨</p>
