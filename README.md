@@ -12,7 +12,7 @@
 
 ### About Me
 
-Working at T-Teck. Studying at UZHNU in Ukraine. Learning Svelte and improving in Front-end.
+Working at T-Teck. Studying at UZHNU in Ukraine. Learning Svelte and improving in Front-end and a bit in Back-end.
 
 ##
 
