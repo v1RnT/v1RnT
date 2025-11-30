@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/v1RnT"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/51e81f2f62cdd676b523ba18c156abea77e074a2/shields/github-shield.svg"/></a>
-  <a href="https://www.linkedin.com/in/vitalii-mlynetskyi-62823727b/"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/51e81f2f62cdd676b523ba18c156abea77e074a2/shields/linkedin-shield.svg"/></a>
   <a href="mailto:mlynetskyivitaliy@gmail.com"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/51e81f2f62cdd676b523ba18c156abea77e074a2/shields/email-shield.svg"/></a>
+  <img title="My Discord: brokeone" src="https://raw.githubusercontent.com/v1RnT/v1RnT/514df4e371cd5eee8d09532ee087ce335d418398/shields/discord-shield.svg"/>
+  <a href="https://www.linkedin.com/in/vitalii-mlynetskyi-62823727b/"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/51e81f2f62cdd676b523ba18c156abea77e074a2/shields/linkedin-shield.svg"/></a>
 </p>
 
 ### About Me
