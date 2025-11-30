@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm <strong>Vitaliy Mlynetskiy</strong></h1>
+<h1 align="center">Hi, I'm <strong>Vitaliy Mlynetskiy</strong></h1>
 
 <p align="center">
-  💻 <strong>Front-End Developer</strong>
+  <strong>Front-End Developer</strong>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="mailto:mlynetskyivitaliy@gmail.com"><img src="https://raw.githubusercontent.com/v1RnT/v1RnT/51e81f2f62cdd676b523ba18c156abea77e074a2/shields/email-shield.svg"/></a>
 </p>
 
-### 🧠 About Me
+### About Me
 
 Working, Studying at UZHNU in Ukraine. Learning Svelte.
 
@@ -78,14 +78,14 @@ Working, Studying at UZHNU in Ukraine. Learning Svelte.
   </tr>
 </table>
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=v1rnt&show_icons=true&theme=tokyonight" height="165" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1rnt&layout=compact&theme=tokyonight" height="165" />
 </p>
 
-## Unneccessary thingy
+## My MAL Card
 
 <p align="center">
   <a href="https://myanimelist.net/profile/fknalive"> 
