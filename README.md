@@ -81,7 +81,7 @@ Working, Studying at UZHNU in Ukraine. Learning Svelte.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v1rnt&show_icons=true&theme=tokyonight" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=v1rnt&show_icons=true&theme=tokyonight" height="165" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1rnt&layout=compact&theme=tokyonight" height="165" />
 </p>
 
